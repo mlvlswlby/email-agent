@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Sensitive credentials & secrets
+.env
+email-agent.env
+Email_Key.txt
+credentials.json
+token.json
+
+# Logs
+*.log
+
